@@ -1005,3 +1005,4 @@ bundle exec rake  # run the test suite
 See
 [CONTRIBUTING.md](https://github.com/jnicklas/capybara/blob/master/CONTRIBUTING.md)
 for how to send issues and pull requests.
+# my_test
